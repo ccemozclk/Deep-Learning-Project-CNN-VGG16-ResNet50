@@ -1,7 +1,9 @@
 # 🩺 Pneumonia Detection from Chest X-Rays: A Comparative Study of Custom CNN, VGG16, and ResNet50
+<img width="741" height="772" alt="image" src="https://github.com/user-attachments/assets/899b2dc3-5f90-4247-9048-669efb6424b1" />
 
 ## 📌 Project Overview
 Early and accurate detection of pneumonia from chest X-rays is critical for patient outcomes. This project implements a deep learning-based diagnostic support system. As a Data Scientist and Industrial Engineer, I focused on maximizing **Recall (Sensitivity)** to minimize "False Negatives"—ensuring that no patient with pneumonia is overlooked by the model.
+![Uploading image.png…]()
 
 The project evaluates three different approaches:
 1. **Custom CNN:** A baseline architecture built from scratch.
