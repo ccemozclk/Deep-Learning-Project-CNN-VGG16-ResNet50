@@ -44,5 +44,9 @@ To build clinical trust, I implemented **Grad-CAM (Gradient-weighted Class Activ
 * **Libraries:** TensorFlow, Keras, OpenCV, Matplotlib, Scikit-learn.
 * **Infrastructure:** Google Colab (T4 & L4 GPUs).
 
+
+Model Link : 
+
+https://drive.google.com/drive/folders/1L5yijfBXTOZtW9n-shRkSOX89meS8RBU?usp=sharing
 ---
 Developed by **İsmail Cem ÖZÇELİK**.
